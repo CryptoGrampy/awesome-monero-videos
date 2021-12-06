@@ -12,6 +12,7 @@ A Curated Collection of Awesome Monero-related Videos / Tutorials
 ## Intro to Monero
 1) [Dr. Daniel Kim: Monero:  Sound Money, Safe Mode](https://yewtu.be/watch?v=wq6w03E2DS4)
 2) [Coinbureau: Monero: Why XMR Has So MUCH POTENTIAL!! 🤫](https://yewtu.be/watch?v=O58STfvxZnY)
+3) [What is Monero? XMR Explained with Animations](https://yewtu.be/watch?v=B7sLnmlZ-kU)
 
 ## Beginner
 
